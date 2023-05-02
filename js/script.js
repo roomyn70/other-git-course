@@ -4,3 +4,4 @@ function fun() {
     var d = new Date();
     document.getElementById('timer').innerHTML = d.toLocaleTimeString();
 }
+console.log("Hello Vladylen!");
