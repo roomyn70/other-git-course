@@ -1,0 +1,22 @@
+body {
+background-color:rgba(87,193,145, .5) ;
+}
+#timer {
+    font-size: 22px;
+    color: brown;
+}
+h2 {
+	color: red;
+}
+.one {
+    width: 200px;
+    height: 120px;
+    background-color: #bcd37a;
+    border: 3px solid brown;
+}
+.two {
+    width: 200px;
+    height: 120px;
+    background-color: rgba(190, 122, 211, 0.5);
+    border: 3px solid brown;
+}
